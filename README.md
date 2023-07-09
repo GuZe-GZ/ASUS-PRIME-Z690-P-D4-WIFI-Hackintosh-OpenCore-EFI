@@ -62,4 +62,6 @@ Wi-Fi网卡: BCM94360CD
 
 
 交流群：113828171
-![QQ群二维码](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/67d48df9-e210-47bf-ab0e-f20f3b033101)
+
+![截屏2023-07-09 17 17 18](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/bd8c98b5-75cd-488f-b0b7-76088b76539f)
+
