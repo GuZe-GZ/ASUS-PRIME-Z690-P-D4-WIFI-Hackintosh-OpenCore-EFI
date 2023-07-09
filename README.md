@@ -14,7 +14,7 @@ macOS Ventura 13.x
 macOS Sonoma 14.x
 
 
-Hardware
+电脑配置如下：
 
 
 
@@ -48,7 +48,7 @@ GPU：蓝宝石 RX580 Series 2304 8G
 Audio: Realtek ALC897 ALC Layout ID=66
 
 
-Ethernet: Realtek PCle 2.5GbE Family Controller
+网卡: Realtek PCle 2.5GbE Family Controller
 
 
-Wireless: BCM94360CD
+Wi-Fi网卡: BCM94360CD
