@@ -1,12 +1,22 @@
 # ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI
 ![Z690-P-D4官网图](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/5ed5b276-ab56-41d1-b934-ccf2a09431ce)
 ![Z690-P-D4官网图](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/6ba9318d-493c-4754-ac69-6c23a1daba23)
+
 OS Version Tested
 
+
 macOS Monterey 12.x
+
+
 macOS Ventura 13.x
+
+
 macOS Sonoma 14.x
+
+
 Hardware
+
+
 
 主板：ASUS-PRIME-Z690-P-D4
 
