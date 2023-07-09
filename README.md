@@ -1,5 +1,7 @@
 # ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI
 ![Z690-P-D4官网图](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/5ed5b276-ab56-41d1-b934-ccf2a09431ce)
+![截屏2023-07-09 17 11 55](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/e9519503-93a3-45d6-ba66-5d1cc52bc4c3)
+
 
 支持的系统版本如下：
 
