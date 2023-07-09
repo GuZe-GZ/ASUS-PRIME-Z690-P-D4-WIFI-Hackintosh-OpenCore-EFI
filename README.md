@@ -8,19 +8,15 @@ macOS Ventura 13.x
 macOS Sonoma 14.x
 Hardware
 
-Motherboard:ASUS-PRIME-Z690-P-D4
-Bios Version: PRIME Z690-P D4 BIOS 2014（2022-10-19）
-CPU: Intel i5-12600KF
-RAM: Asgard Freyr 32GB(8G*4) DDR4 3200MHz
-SSD: 1.HIKSEMI C4000 CEO PCIe 4.0 512G MacOS
-SSD: 2.HIKVISON CRIUS C2000 PRO PCIe 3.0 1TB Windows11 (250G) + APFS MacOS DATA DISK
-GPU: HP OEM RX6600XT 8GB (From HP ZHAN 99 DESKTOP)
-Audio: Realtek ALC
+主板：ASUS-PRIME-Z690-P-D4
+CPU：Intel i5-12400
+内存：海盗船灯条32GB(8G*4) DDR4 3200MHz
+SSD：1 三星 980 Pro PCIe 4.0 512G MacOS
+SSD：2 三星 9A1 PCIe 4.0 1TB Windows
+SSD：3 海力士 PC801 PCIe 4.0 1TB data
+SSD：4 七彩虹 CN700 PCIe 4.0 1TB data
+SSD：5 三星 970 EVO PLUS 2TB PCIe 3.0 1TB data
+GPU：蓝宝石 RX580 Series 2304 8G 
+Audio: Realtek ALC897 ALC Layout ID=66
 Ethernet: Realtek PCle 2.5GbE Family Controller
-Wireless: BCM943602CS
-CPU Cooling：MAG CORELIQUID 360R BLACK + be quiet! Light Wings 120mm PWM RGB * 3
-Display: DELL U2718Q + ViewSonic 24VX2478-4K-HD
-PSU: CoolerMaster GX650 BLACK
-CASE: SAMA Versailles 3 With DIY
-CASE Cooling: be quiet! Light Wings 120mm PWM RGB * 3 (Top *2 Back *1)
-InputDevice: Logitech MX Keys + MX Master 2S + Apple Magic Trackpad 2 Grey
+Wireless: BCM94360CD
