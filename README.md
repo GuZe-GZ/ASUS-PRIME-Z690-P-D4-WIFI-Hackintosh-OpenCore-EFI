@@ -4,7 +4,7 @@
 ![关于本机图](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/11678c37-476e-4946-8d5b-76d060e9cc0a)
 
 
-支持的系统版本如下：
+#  支持的系统版本如下：
 
 macOS Big Sur 11.x
 
@@ -21,7 +21,7 @@ macOS Sonoma 14.x（9.4测试版）
 
 
 
-电脑配置如下：
+#  电脑配置如下：
 
 
 
@@ -61,7 +61,17 @@ Audio: Realtek ALC897 ALC Layout ID=66
 Wi-Fi网卡: BCM94360CD
 
 
-交流群：113828171
+
+
+#  目前测试已知正常功能
+
+
+
+变频加速-OK
+
+
+
+#  QQ交流群：113828171
 
 ![截屏2023-07-09 17 17 18](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/bd8c98b5-75cd-488f-b0b7-76088b76539f)
 
