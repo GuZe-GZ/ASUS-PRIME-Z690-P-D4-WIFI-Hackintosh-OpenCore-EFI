@@ -36,7 +36,6 @@ CPU：Intel i5-12400
 
 SSD：1 三星 980 Pro PCIe 4.0 512G MacOS
 
-![QQ群二维码](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/67d48df9-e210-47bf-ab0e-f20f3b033101)
 
 SSD：2 三星 9A1 PCIe 4.0 1TB Windows
 
@@ -60,3 +59,7 @@ Audio: Realtek ALC897 ALC Layout ID=66
 
 
 Wi-Fi网卡: BCM94360CD
+
+
+交流群：113828171
+![QQ群二维码](https://github.com/GuZe-GZ/ASUS-PRIME-Z690-P-D4-WIFI-Hackintosh-OpenCore-EFI/assets/70998332/67d48df9-e210-47bf-ab0e-f20f3b033101)
